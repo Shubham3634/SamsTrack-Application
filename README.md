@@ -5,7 +5,8 @@ Objective:
 1. Automate attendance tracking through a REST API to streamline integration with existing systems.
 2.  Ensure data accuracy with automated validation and storage of attendance records.
 3.  Facilitate seamless integration with educational platforms to enhance faculty and administrative workflows.
-  Scope of the Project:
+
+Scope of the Project:
 The scope of the SamsTrack project involves developing a REST API to manage student
 attendance, including functionalities for handling Students, Subjects, Faculty, and Attendance
 Records.
